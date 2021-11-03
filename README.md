@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**kendra4227/kendra4227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Scribble Stadium Interactive Child Gaming Application
+- 🌱 I’m currently learning Fullstack Web development
+- 👯 I’m looking to collaborate on future Web develoment projects 
+- 🤔 I’m looking for help with finding employment as a Fullstack Web Developer or Backend Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: ... lmccullough021291@gmail.com 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am a BMW/Volvo master seat builder !
+
+
+
